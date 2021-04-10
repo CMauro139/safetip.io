@@ -1,8 +1,11 @@
-html, body, .container {
+html, .body {
+    background-color: darkgrey;
+} 
+
+.container {
     width: 50%;
     height: 50%;
-    background-color: whitesmoke;
-    
+        
 }
 
 .white{
@@ -11,9 +14,9 @@ html, body, .container {
     border: 0; border-top: 1px solid #ffffff;
 }
 
-.container-fluid,
+.container,
 .overlay:before {
-    background-color: whitesmoke;
+    background-color: darkgey;
 }
 
 .card {
