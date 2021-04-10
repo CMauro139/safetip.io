@@ -1,7 +1,7 @@
 function calcTip(){
   
   //Grab the input values
-  let calcTip= document.getElementById("tipForm").value;
+  let tipAmount= document.getElementById("tipForm").value;
   let billAmount= document.getElementById("billInput").value;
   let billCard - document.getELementById("bill-card");
 
