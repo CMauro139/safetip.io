@@ -1,11 +1,8 @@
-.a {
-    background-color: whitesmoke;
-}
-
-html, body, .container-fluid {
+html, body, .container {
     width: 50%;
     height: 50%;
-    backgroundcolor: aqua;
+    background-color: whitesmoke;
+    
 }
 
 .white{
