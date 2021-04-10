@@ -12,7 +12,7 @@ html, body, .container-fluid {
 
 .container-fluid,
 .overlay:before {
-    background: url("assets/cafe.jpg") no-repeat fixed 0 0 / cover;
+    background-color: whitesmoke;
 }
 
 .card {
