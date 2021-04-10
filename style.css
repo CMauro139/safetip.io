@@ -13,8 +13,8 @@ html, body, .container-fluid {
 
 .container-fluid,
 .overlay:before {
-    background: url() no-repeat fixed 0 0 / cover;
-    background-color:#f7f7f7;
+    background: url(https://github.com/CMauro139/safetip.io/blob/1eaed3f491407d7df73d808911fe5ba4434bbdc8/global-connections.png) no-repeat fixed 0 0 / cover;
+    
 }
 
 .card {
