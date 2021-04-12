@@ -1,5 +1,5 @@
 html, .body {
-    background-color: darkgrey;
+    
 } 
 
 .container {
@@ -8,7 +8,7 @@ html, .body {
         
 }
 
-.white{
+.divider{
     width: 50px;
     height: .5em;
     border: 0; border-top: 1px solid #ffffff;
@@ -23,7 +23,7 @@ html, .body {
     color: gray;
 }
 
-.container-fluid {
+.container {
     align-items: center;
     display: flex;
     justify-content: center;
